@@ -3,7 +3,7 @@
 
 export const App = () => {
   return (
-    <div className="App">MASTER</div>
+    <div className="App">Main Develop</div>
   );
 }
 
